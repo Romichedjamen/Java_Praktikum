@@ -16,6 +16,8 @@ public class Ei_test {
 		x2.zeigDaten();
 		Ei x = new Ei(2,"DE",334224);
 	    x.zeigDaten();
+		Ei x3 = new Ei(1,"DE",334224);
+		x3.zeigDaten();
 	
 		
 		
