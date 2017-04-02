@@ -56,10 +56,7 @@ public class Person {
 			System.out.println("Dieses Programm wird auf folgende Weise benutzt: java -jar myPerson.jar [name] [alter]");
 		}
 		
-		String[] obj = null;
-	    //System.out.println(obj.length);
-	    
-	    boolean myBool = false;
+		boolean myBool = false;
 	    boolean mybool2 = false;// = obj.length == 1;
 	    System.out.println(myBool && (mybool2 || args.length == 0));
 	    // ! & | true false == < > >= <=

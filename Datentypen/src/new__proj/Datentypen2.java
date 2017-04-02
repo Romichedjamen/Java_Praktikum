@@ -1,8 +1,10 @@
 package new__proj;
 
-public class Datentypen {
+import tes.java.Tastatur;
 
-	public Datentypen() {
+public class Datentypen2 {
+
+	public Datentypen2() {
 		
 	}
 

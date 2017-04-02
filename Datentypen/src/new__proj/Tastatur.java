@@ -1,4 +1,4 @@
-package tes.java;
+package new__proj;
 
 public class Tastatur {
 
