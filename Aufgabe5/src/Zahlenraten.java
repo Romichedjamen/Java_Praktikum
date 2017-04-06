@@ -11,10 +11,11 @@ public class Zahlenraten {
 	}
 	while( zahl <= 12);
 		System.out.println("Meine zahl ist kleiner! ");
+		zahl++;
 		for (int i=1; i<3; i++)
 		zahl = Tastatur.LeseInt();
 		//System.out.println("Meine zahl ist kleiner! ");
-		System.out.println("Du hast meine Zahl beim 3. Versuch erraten! ");
+		System.out.println("Du hast meine Zahl beim 3. Versuch erraten! " +zahl);
 		
 		
 		
